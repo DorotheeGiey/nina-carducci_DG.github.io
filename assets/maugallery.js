@@ -283,8 +283,6 @@
       $(".active-tag").removeClass("active active-tag").css({'background-color' : '', 'color': ''});
       $(this).addClass("active-tag").css({'background-color' : '#BEB45A','color':'#fff'});
 
-      
-
       var tag = $(this).data("images-toggle");
 
 
